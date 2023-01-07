@@ -1,0 +1,1 @@
+In this file we will also implement how to work with git in live projects 
