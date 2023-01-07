@@ -1,1 +1,2 @@
 In this file we will also implement how to work with git in live projects 
+We will further understand the git workflow from the staging area to repository
